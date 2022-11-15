@@ -1,0 +1,8 @@
+.navbar{
+    display: flex;
+    justify-content: left;
+}
+.cimg{
+    display: flex;
+    float : right;
+}
